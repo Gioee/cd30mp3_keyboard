@@ -13,7 +13,7 @@ Steps done:
 - I've found on the russian forum drive2 this image to understand fully how leds and rotary encoder works
 - More info in the cd30mp3_keyboard.ino file
 
-<img src="https://github.com/Gioee/cd30mp3_keyboard/assets/48024736/86b0b80c-f59a-4a22-a479-239a9194c31b" width="100">
+<img src="https://github.com/Gioee/cd30mp3_keyboard/assets/48024736/86b0b80c-f59a-4a22-a479-239a9194c31b" width="500">
 colored wires to the panel connector contact points
 
 ![f6fb3bas-960](https://github.com/Gioee/cd30mp3_keyboard/assets/48024736/5cb8f3ed-896e-4d44-acbd-a43ea1d80ca5)
