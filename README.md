@@ -1,4 +1,4 @@
-# Astra H GTC Cosmo cd30mp3 as hid usb keyboard
+# Astra H DELPHI GRUNDIG cd30mp3 as hid usb keyboard
 
 Hardware:
 - Arduino pro micro
