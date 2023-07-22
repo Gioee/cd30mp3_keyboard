@@ -27,4 +27,7 @@ Steps done:
 ## FINAL RESULT
 <img src="https://github.com/Gioee/cd30mp3_keyboard/assets/48024736/e96e1d49-aae8-496d-837a-a722018118a9" width="300">
 
+
+
+
 Image of the contact scheme taken from: https://www.drive2.ru/l/8687044, all rights reserved.
