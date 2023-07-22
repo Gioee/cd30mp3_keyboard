@@ -16,7 +16,7 @@ Steps done:
 ### colored wires to the panel connector contact points
 <img src="https://github.com/Gioee/cd30mp3_keyboard/assets/48024736/86b0b80c-f59a-4a22-a479-239a9194c31b" width="300">
 
-### contact scheme
+### contact scheme[^1]
 <img src="https://github.com/Gioee/cd30mp3_keyboard/assets/48024736/5cb8f3ed-896e-4d44-acbd-a43ea1d80ca5" width="300">
 
 ### I've used the two 10kohm resistance as pull down resistance for the encoder A and encoder B pins, and the two 104 ceramic capacitor as [filter to clean signal](https://www.arrow.com/en/research-and-events/articles/using-capacitors-to-filter-electrical-noise), the two 100ohms resistance are used between the pulldown resistance and the signal filter to connect them in series
@@ -30,4 +30,4 @@ Steps done:
 
 
 
-Image of the contact scheme taken from: https://www.drive2.ru/l/8687044, all rights reserved.
+[^1]: Image of the contact scheme taken from: https://www.drive2.ru/l/8687044, all rights reserved.
