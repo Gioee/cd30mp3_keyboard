@@ -24,10 +24,14 @@ Steps done:
 <img src="https://github.com/Gioee/cd30mp3_keyboard/assets/48024736/220fbf40-086b-4a47-a7bf-d7b8ba2df210" width="200">
 <img src="https://github.com/Gioee/cd30mp3_keyboard/assets/48024736/43fbb4fb-03ab-4a6d-af9b-a687e0db3199" width="200">
 
-## FINAL RESULT
+### Final result
 <img src="https://github.com/Gioee/cd30mp3_keyboard/assets/48024736/e96e1d49-aae8-496d-837a-a722018118a9" width="300">
 
 
+### Led brightness control
+```bash
+echo -n 255 > /dev/ttyACM0
+```
 
 
 [^1]: Image of the contact scheme taken from: https://www.drive2.ru/l/8687044, all rights reserved.
